@@ -1,3 +1,5 @@
+[![hmc-cs-bwiedermann](https://circleci.com/gh/hmc-cs-bwiedermann/cs121-git-practice.svg?style=svg)](https://circleci.com/gh/hmc-cs-bwiedermann/cs121-git-practice)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
